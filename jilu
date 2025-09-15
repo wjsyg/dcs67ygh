@@ -1,0 +1,10 @@
+wq
+cd
+cd ../..
+ll
+ls
+git init
+git add
+Ssh-keygen
+git status
+git push
